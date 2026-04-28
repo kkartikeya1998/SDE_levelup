@@ -22,7 +22,7 @@
 - [ ] Visitor
 
 ### Structural Patterns
-- [ ] Adapter
+- [x] Adapter
 - [ ] Decorator
 - [ ] Facade
 - [ ] Composite
