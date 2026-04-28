@@ -23,7 +23,7 @@
 
 ### Structural Patterns
 - [x] Adapter
-- [ ] Decorator
+- [x] Decorator
 - [ ] Facade
 - [ ] Composite
 - [ ] Proxy
