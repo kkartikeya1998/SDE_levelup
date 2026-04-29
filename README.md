@@ -24,7 +24,7 @@
 ### Structural Patterns
 - [x] Adapter
 - [x] Decorator
-- [ ] Facade
+- [x] Facade
 - [ ] Composite
 - [ ] Proxy
 - [ ] Bridge
