@@ -25,13 +25,13 @@
 - [x] Adapter
 - [x] Decorator
 - [x] Facade
-- [ ] Composite
+- [x] Composite
 - [ ] Proxy
 - [ ] Bridge
 - [ ] Flyweight
 
 ### Creational Patterns
-- [ ] Singleton
+- [x] Singleton
 - [x] Factory Method (parametrized, not abstract)
 - [ ] Abstract Factory
 - [ ] Builder
