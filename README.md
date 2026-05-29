@@ -34,5 +34,5 @@
 - [x] Singleton
 - [x] Factory Method (parametrized, not abstract)
 - [ ] Abstract Factory
-- [ ] Builder
+- [x] Builder (simple)
 - [x] Prototype
