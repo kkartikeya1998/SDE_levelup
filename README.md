@@ -14,7 +14,7 @@
 - [x] Strategy
 - [x] Observer
 - [x] Command
-- [ ] Iterator
+- [x] Iterator
 - [ ] State
 - [ ] Chain of Responsibility
 - [ ] Mediator
